@@ -1,8 +1,8 @@
 body {
-    background-color: rgb(134, 17, 184);
+    background-color: lch(26.91% 75.62 317.87);
     color: rgb(255, 255, 255);
     font-family: Arial, Helvetica, sans-serif;
-    margin: 0;
+    margin: 10;
 }
 
 header { 
